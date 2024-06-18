@@ -1029,9 +1029,9 @@ $(function () {
 
             //todo.
             bedVolume = {
-                width: 300,
+                width: 415,
                 height: 700,
-                depth: 300,
+                depth: 415,
                 origin: "lowerleft",
                 formFactor: "",//todo
             };
